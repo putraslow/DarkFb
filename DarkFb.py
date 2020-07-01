@@ -1,5 +1,5 @@
 ##################################################
-# Author ReCord : Sanz                           #
+# Author ReCord : XilentZ                          #
 # Youtube       : SANZ SOEKAMTI                  #
 # GitHub        : https://github.com/B4N954N2-ID #
 # Note        : Gunakan Dengan Bijak Ya Bray ^_^ #
